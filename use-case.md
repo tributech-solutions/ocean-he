@@ -1,4 +1,4 @@
-# DeepOpinion - FHE use case
+# DeepOpinion - FHE use-case
 
 ## Goal
 A leading utility company powering one of the globally most vibrant cities is continuously improving and digitizing its customer service. They receive hundreds of messages on a daily basis from customers including requests, inquiries, and complaints. The customer service team partnered with [DeepOpinion](https://deepopinion.ai/) to deploy a cognitive automation solution for automating customer tickets analysis and routing to the responsible team for addressing such requests. The data come from multiple systems including customer satisfaction surveys, customer complaints management tools, and live chatbots. 
